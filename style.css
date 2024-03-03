@@ -409,11 +409,11 @@ padding: 100px 0;
         padding: 0;
     }
 
-    .coffee {
+    .co {
         padding: 30px;
     }
 
-    .coffee-content h2 {
+    .co-content h2 {
         padding: 0;
     }
 
@@ -421,12 +421,12 @@ padding: 100px 0;
         padding: 0;
     }
 
-    .coffee-group {
+    .co-group {
         flex-direction: column;
         margin-bottom: 0;
     }
 
-    .coffee-img {
+    .co-img {
         display: none;
     }
 
